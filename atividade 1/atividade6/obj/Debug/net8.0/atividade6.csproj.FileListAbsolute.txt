@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\atividade 1\atividade6\bin\Debug\net8.0\atividade6.exe
+C:\Users\Diego\source\repos\atividade 1\atividade6\bin\Debug\net8.0\atividade6.deps.json
+C:\Users\Diego\source\repos\atividade 1\atividade6\bin\Debug\net8.0\atividade6.runtimeconfig.json
+C:\Users\Diego\source\repos\atividade 1\atividade6\bin\Debug\net8.0\atividade6.dll
+C:\Users\Diego\source\repos\atividade 1\atividade6\bin\Debug\net8.0\atividade6.pdb
+C:\Users\Diego\source\repos\atividade 1\atividade6\obj\Debug\net8.0\atividade6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\atividade 1\atividade6\obj\Debug\net8.0\atividade6.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\atividade 1\atividade6\obj\Debug\net8.0\atividade6.AssemblyInfo.cs
+C:\Users\Diego\source\repos\atividade 1\atividade6\obj\Debug\net8.0\atividade6.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\atividade 1\atividade6\obj\Debug\net8.0\atividade6.dll
+C:\Users\Diego\source\repos\atividade 1\atividade6\obj\Debug\net8.0\refint\atividade6.dll
+C:\Users\Diego\source\repos\atividade 1\atividade6\obj\Debug\net8.0\atividade6.pdb
+C:\Users\Diego\source\repos\atividade 1\atividade6\obj\Debug\net8.0\atividade6.genruntimeconfig.cache
+C:\Users\Diego\source\repos\atividade 1\atividade6\obj\Debug\net8.0\ref\atividade6.dll

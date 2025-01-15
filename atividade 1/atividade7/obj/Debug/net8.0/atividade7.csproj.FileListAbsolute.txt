@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\atividade 1\atividade7\bin\Debug\net8.0\atividade7.exe
+C:\Users\Diego\source\repos\atividade 1\atividade7\bin\Debug\net8.0\atividade7.deps.json
+C:\Users\Diego\source\repos\atividade 1\atividade7\bin\Debug\net8.0\atividade7.runtimeconfig.json
+C:\Users\Diego\source\repos\atividade 1\atividade7\bin\Debug\net8.0\atividade7.dll
+C:\Users\Diego\source\repos\atividade 1\atividade7\bin\Debug\net8.0\atividade7.pdb
+C:\Users\Diego\source\repos\atividade 1\atividade7\obj\Debug\net8.0\atividade7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\atividade 1\atividade7\obj\Debug\net8.0\atividade7.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\atividade 1\atividade7\obj\Debug\net8.0\atividade7.AssemblyInfo.cs
+C:\Users\Diego\source\repos\atividade 1\atividade7\obj\Debug\net8.0\atividade7.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\atividade 1\atividade7\obj\Debug\net8.0\atividade7.dll
+C:\Users\Diego\source\repos\atividade 1\atividade7\obj\Debug\net8.0\refint\atividade7.dll
+C:\Users\Diego\source\repos\atividade 1\atividade7\obj\Debug\net8.0\atividade7.pdb
+C:\Users\Diego\source\repos\atividade 1\atividade7\obj\Debug\net8.0\atividade7.genruntimeconfig.cache
+C:\Users\Diego\source\repos\atividade 1\atividade7\obj\Debug\net8.0\ref\atividade7.dll
